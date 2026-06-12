@@ -1,0 +1,9 @@
+*** CYBERSECURITY LAB REPORT ***
+Student: Kripa SB
+
+Summary of Activities:
+- Implemented basic firewall rules to block unauthorized traffic.
+- Used hashing algorithms to verify file integrity.
+- Encrypted sensitive text using AES.
+- Analyzed network traffic captures for plain-text passwords.
+Status: Successfully Completed.

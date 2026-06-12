@@ -1,0 +1,5 @@
+*** REPORTS FOLDER - COMMAND SUMMARY ***
+This file contains the master list of all commands utilized across the lab environment.
+- Linux: cd, ls, pwd, mkdir, rm, cp, mv
+- Network: ping, nmap, netstat, ifconfig
+- Security: iptables, tcpdump, openssl

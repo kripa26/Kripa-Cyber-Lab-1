@@ -1,0 +1,10 @@
+*** FINAL CONSOLIDATED REPORT ***
+Student: Kripa SB
+
+This document certifies the completion of all lab modules:
+- Module 1: Networking Basics (Complete)
+- Module 2: Linux CLI (Complete)
+- Module 3: Security Concepts (Complete)
+- Module 4: Pen-Testing Basics (Complete)
+
+All files have been successfully structured and managed according to the lab requirements.

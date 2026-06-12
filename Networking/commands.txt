@@ -1,0 +1,8 @@
+*** NETWORK COMMANDS SUMMARY ***
+
+- ipconfig / ifconfig : View IP address details
+- ping : Check network connectivity via ICMP
+- tracert / traceroute : Discover the path packets take
+- netstat : View active network connections
+- nslookup : Query DNS records
+- nmap : Scan for open ports on a network

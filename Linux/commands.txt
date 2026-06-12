@@ -1,0 +1,17 @@
+*** LINUX COMMANDS SUMMARY ***
+
+Navigation:
+- pwd: Print working directory
+- cd: Change directory
+- ls -lah: List all files with details
+
+File Management:
+- mkdir: Make new directory
+- touch: Create blank file
+- cp: Copy files/directories
+- mv: Move or rename
+- rm: Delete files
+
+System Info:
+- uname -r: Kernel release
+- whoami: Active user profile

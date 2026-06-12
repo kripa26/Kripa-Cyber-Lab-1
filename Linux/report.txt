@@ -1,0 +1,9 @@
+*** LINUX LAB REPORT ***
+Student: Kripa SB
+
+Summary of Activities:
+- Navigated the file system using absolute and relative paths.
+- Created nested directory structures for lab organization.
+- Handled file creation, moving, and copying operations.
+- Modified file permissions to secure sensitive documents.
+Status: Successfully Completed.

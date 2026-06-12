@@ -1,0 +1,8 @@
+*** ETHICAL HACKING COMMANDS ***
+
+- nmap: Network discovery and security auditing
+- msfconsole: Launch Metasploit framework
+- searchsploit: Exploit database search tool
+- hydra: Network logon cracker
+- burpsuite: Web vulnerability scanner
+- john: Password cracker

@@ -1,0 +1,16 @@
+*** LINUX ESSENTIALS NOTES ***
+Author: Kripa SB
+
+1. Linux Architecture
+   - Kernel: The core interface between hardware and software.
+   - Shell: The command-line interpreter (e.g., Bash).
+   - File System: Hierarchical tree structure starting from root (/).
+
+2. Permissions Management
+   - Three types: Read (r), Write (w), Execute (x).
+   - Three levels: User (u), Group (g), Others (o).
+   - Managing commands: chmod (change mode), chown (change owner).
+
+3. Package Management
+   - Debian/Ubuntu uses APT (Advanced Package Tool).
+   - RedHat/CentOS uses YUM or DNF.

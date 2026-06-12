@@ -1,0 +1,22 @@
+*** NETWORK FUNDAMENTALS NOTES ***
+Author: Kripa SB
+Date: June 2026
+
+1. The OSI Reference Model
+   - Application (L7)
+   - Presentation (L6)
+   - Session (L5)
+   - Transport (L4) - TCP/UDP protocols reside here
+   - Network (L3) - IP addressing and routing
+   - Data Link (L2) - MAC addresses and switching
+   - Physical (L1) - Cables and signals
+
+2. Essential Protocols
+   - HTTP/HTTPS: Web traffic
+   - SSH: Secure remote access
+   - DNS: Domain to IP resolution
+   - DHCP: IP assignment
+
+3. Core Devices
+   - Switches: Operate at Layer 2
+   - Routers: Operate at Layer 3

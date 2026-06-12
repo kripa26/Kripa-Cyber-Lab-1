@@ -1,0 +1,9 @@
+*** NETWORKING LAB REPORT ***
+Student: Kripa SB
+
+Summary of Activities:
+- Verified host IP configuration using command line tools.
+- Tested connectivity to external domains utilizing ICMP echo requests.
+- Traced the routing path to identify network hops.
+- Scanned local subnets for active devices.
+Status: Successfully Completed.

@@ -1,0 +1,4 @@
+*** REPORTS FOLDER - GENERAL NOTES ***
+Author: Kripa SB
+
+This centralized folder acts as a repository for the finalized reports from all four lab modules. The exercises provided hands-on experience traversing Linux directories and understanding the foundations of network security and ethical hacking. 

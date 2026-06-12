@@ -1,0 +1,7 @@
+*** CYBERSECURITY COMMANDS ***
+
+- iptables: Configure Linux kernel firewall rules
+- ufw: Uncomplicated firewall management
+- openssl: Toolkit for TLS and cryptography
+- fail2ban: Ban IPs that show malicious signs
+- tcpdump: Command-line packet analyzer

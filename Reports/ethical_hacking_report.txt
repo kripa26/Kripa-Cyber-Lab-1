@@ -1,0 +1,9 @@
+*** ETHICAL HACKING LAB REPORT ***
+Student: Kripa SB
+
+Summary of Activities:
+- Conducted passive reconnaissance on target domains.
+- Performed active port scanning and service detection.
+- Utilized vulnerability scanners to find unpatched software.
+- Exploited a sample vulnerable machine in a closed environment.
+Status: Successfully Completed.

@@ -1,0 +1,14 @@
+*** ETHICAL HACKING NOTES ***
+Author: Kripa SB
+
+1. Phases of Penetration Testing
+   - Reconnaissance: Gathering OSINT.
+   - Scanning: Finding open ports and vulnerabilities.
+   - Exploitation: Gaining unauthorized access.
+   - Post-Exploitation: Maintaining access and pivoting.
+   - Reporting: Documenting findings for the client.
+
+2. Legal and Ethical Rules
+   - Always obtain written consent (Rules of Engagement).
+   - Stay within the defined scope.
+   - Do no harm to production environments.

@@ -1,0 +1,17 @@
+*** CYBERSECURITY CONCEPTS ***
+Author: Kripa SB
+
+1. The Security Triad (CIA)
+   - Confidentiality: Data privacy and encryption.
+   - Integrity: Data accuracy and tamper-proofing.
+   - Availability: System uptime and accessibility.
+
+2. Common Threat Vectors
+   - Phishing: Deceptive communications.
+   - Malware: Malicious software (ransomware, spyware).
+   - SQLi: Database injection attacks.
+
+3. Defense Mechanisms
+   - Firewalls: Traffic filtering.
+   - IDS/IPS: Intrusion detection and prevention.
+   - Cryptography: Symmetric and asymmetric encryption.
